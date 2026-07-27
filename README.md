@@ -25,15 +25,4 @@
 - FAISS
 - ChromaDB
 
-## 📌 Projects
 
-- 🤖 AI Notes Creator
-- 📄 Financial Analysis Agent
-- ✋ Hand Gesture Recognition
-- 🏠 House Price Prediction
-- 🐶 Cats vs Dogs Classification
-
-## 📫 Connect with Me
-
-- LinkedIn: https://linkedin.com/in/yourusername
-- Email: your@email.com
