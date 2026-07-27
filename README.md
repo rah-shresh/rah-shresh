@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Shresh Rahangdale
 
-<!--
-**rah-shresh/rah-shresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 AI | Machine Learning | Python | GenAI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning GenAI & RAG
+- 🤖 Building AI Agents
+- 💡 Interested in SaaS & AI Products
+- 📍 India
+
+## 🛠 Tech Stack
+
+- Python
+- C++
+- JavaScript
+- React
+- SQL
+- Git
+- GitHub
+- LangChain
+- Streamlit
+- FAISS
+- ChromaDB
+
+## 📌 Projects
+
+- 🤖 AI Notes Creator
+- 📄 Financial Analysis Agent
+- ✋ Hand Gesture Recognition
+- 🏠 House Price Prediction
+- 🐶 Cats vs Dogs Classification
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/yourusername
+- Email: your@email.com
