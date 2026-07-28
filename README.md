@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Machine+Learning+Engineer;Building+Cool+AI+Projects;Open+Source+Enthusiast" />
 </p>
-<img align="right" alt="coding"width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo0Njd1MDRsbm01YnE0OG96dXRyaThtMDFneGhwYXlwMGtjYnJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lBg16U287g8Yvvck8k/giphy.gif"
+<img align="right" alt="coding"width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NzYnBxNWY4YjgxMHh5Zzc5bDR6NHhtbGpkeW1pNHF2NmxvamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RY0vRVcoiEYq3ePYGo/giphy.gif"
 ---
 
 # 🚀 About Me
