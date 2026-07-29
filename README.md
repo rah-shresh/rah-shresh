@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,html,css,mongodb,mysql,git,github,vscode,tensorflow,pytorch"/>
 
