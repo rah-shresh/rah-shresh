@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shresh Rahangdale</h1>
-
 <img align="right" alt="coding"width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NzYnBxNWY4YjgxMHh5Zzc5bDR6NHhtbGpkeW1pNHF2NmxvamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RY0vRVcoiEYq3ePYGo/giphy.gif"
+
+<h1 align="center">Hi 👋, I'm Shresh Rahangdale</h1>
 
 <h3 align="left">
 • AI & Data Science Student • GenAI Developer • Machine Learning Enthusiast
